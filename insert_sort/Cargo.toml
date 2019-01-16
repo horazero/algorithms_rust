@@ -1,0 +1,6 @@
+[package]
+name = "insert_sort"
+version = "0.1.0"
+authors = ["Emiliano Pedrozo <emi@whitebeard.emiliano.in>"]
+
+[dependencies]
